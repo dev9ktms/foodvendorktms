@@ -1,0 +1,7 @@
+../students.db
+ktms_vendor
+../ktms-schema
+src/__pycache__/
+src/models/__pycache__
+src/router/__pycache__
+src/schemas/__pycache__
